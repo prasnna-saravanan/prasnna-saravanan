@@ -1,11 +1,31 @@
-👋 Hi there, I'm Prasanna Saravanan!
-I'm a entrepreneur passionate about problem solving. Welcome to my GitHub profile!
+# 👨‍🚀 Prasanna Builds  
 
-👀 I’m interested in giving my brain some work with the hardest problems on earth.
-🌱 I’m currently learning Linux.
-💼 I’m open to collaborations on Data Science/AI/ML/Data Engineeering.
-📫 Reach me at [Your Contact Information].
-⚡ Fact: Trust the Process.
+> Building systems that read markets before the markets read themselves.  
 
-🚀 Quick Links
-*Coming Up*
+---
+
+### 🚀 Current Work
+- **TractionX** – Venture intelligence OS for private markets  
+- **Async Infra** – Redis-backed queues, event-driven pipelines, fault-tolerant services  
+- **AI Agents** – Thesis-trained models that don’t just analyze, they execute  
+
+---
+
+### 🛠️ Tech I Trust
+`Python` · `FastAPI` · `Redis` · `Postgres` · `MongoDB`  
+`Next.js` · `Tailwind` · `ShadCN` · `Anime.js`  
+`OpenAI` · `Together AI` · `Vertex AI` · `Vector DBs`
+
+---
+
+### 🧭 Operating Principles
+- **Velocity > Perfection** – ship, measure, evolve  
+- **Signals > Noise** – see what others miss  
+- **Infra as Craft** – reliability is design, not patchwork  
+
+---
+
+### 🎭 Off the Clock
+- Vim over everything  
+- Coffee as runtime  
+- Always midnight coding  
