@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="140" viewBox="0 0 900 140"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        .txt {
+          font-family: monospace;
+          font-size: 16px;
+          fill: #6DA4FF;
+          white-space: pre;
+        }
+      ]]>
+    </style>
+  </defs>
+  <!-- ASCII banner lines -->
+  <text x="10" y="25"  class="txt"> ██████╗ ██████╗  █████╗ ███████╗███████╗███╗   ██╗███╗   ██╗</text>
+  <text x="10" y="50"  class="txt">██╔════╝ ██╔══██╗██╔══██╗██╔════╝██╔════╝████╗  ██║████╗  ██║</text>
+  <text x="10" y="75"  class="txt">██║  ███╗██████╔╝███████║█████╗  █████╗  ██╔██╗ ██║██╔██╗ ██║</text>
+  <text x="10" y="100" class="txt">██║   ██║██╔═══╝ ██╔══██║██╔══╝  ██╔══╝  ██║╚██╗██║██║╚██╗██║</text>
+  <text x="10" y="125" class="txt">╚██████╔╝██║     ██║  ██║███████╗███████╗██║ ╚████║██║ ╚████║</text>
+  <text x="10" y="150" class="txt"> ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═══╝</text>
+</svg>
+
