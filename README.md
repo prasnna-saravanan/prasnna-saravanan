@@ -2,34 +2,37 @@
   <img src="./assets/intro.svg" width="100%" />
 </p>
 
-# 🧩 Prasanna Saravanan  
+# Prasanna Saravanan
 
-> Systems, not startups. Intelligence before reaction.  
+### AI Systems Architect
 
----
-
-## ⚙️ Now Building
-- **TractionX** — Venture intelligence OS for private markets  
-- **Async Infra** — Redis-driven pipelines and fault-tolerant backend architecture  
-- **Autonomous Agents** — Thesis-trained models for sourcing, scoring, and execution  
+Precision engineering. Tooling ecosystems. Agent infrastructure.  
+Systems over hype. Architecture over execution.
 
 ---
 
-## 🧠 Stack
-`Python` · `FastAPI` · `Redis` · `Postgres` · `Next.js` · `Tailwind`  
-`Anime.js` · `OpenAI` · `Together AI` · `Vertex AI` · `Qdrant`
+## Current Work
+
+- TractionX — Venture intelligence OS for private markets  
+- Kernel.dev — Standard runtime for agent tools  
+- Async Systems — Redis-backed pipelines, orchestration, distributed workers  
+- Autonomous Agents — Thesis-trained models for sourcing, scoring, execution  
 
 ---
 
-## 🧭 Principles
-- Ship fast, refactor later  
-- Observe first, optimize second  
-- Architecture is product  
+## Technical Stack
+
+Python • FastAPI • Redis • Postgres  
+Next.js • Tailwind  
+OpenAI • TogetherAI • VertexAI • Qdrant
 
 ---
 
-## ☕ Off the Clock
-Vim. Caffeine. Midnight commits.
+## Operating Principles
+
+- Bias for deterministic systems  
+- Implementation first  
+- Architecture is the product  
 
 ---
 
