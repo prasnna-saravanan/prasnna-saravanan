@@ -5,7 +5,9 @@
 # Prasanna Saravanan
 
 
-Precision engineering. Tooling ecosystems. Agent infrastructure. Systems over hype. Architecture over execution.
+Precision engineering. Tooling ecosystems. Agent infrastructure. 
+
+Systems over hype. Architecture over execution.
 
 ---
 
