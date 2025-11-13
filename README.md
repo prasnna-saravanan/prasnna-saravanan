@@ -7,11 +7,6 @@
 Precision engineering. Tooling ecosystems. Agent infrastructure.  
 Systems over hype. Architecture over execution.
 
-```
-════════════════════════════════════════════════════════════════════════════════════
-  [SYSTEM STATUS]  Runtime: ✓ OPERATIONAL  |  Deployments: 2 LIVE  |  Uptime: 99.8%
-════════════════════════════════════════════════════════════════════════════════════
-```
 
 ## Command Palette
 
@@ -179,8 +174,12 @@ prasanna@systems:~$ status
   <img src="https://raw.githubusercontent.com/prasnna-saravanan/prasnna-saravanan/output/github-contribution-grid-snake-blue.svg" alt="Contribution Snake" />
 </div>
 
+<div align="center">
+
 ```
 ════════════════════════════════════════════════════════════════════════════════════
                                 EOF — SYSTEMS ONLINE
 ════════════════════════════════════════════════════════════════════════════════════
 ```
+
+</div>
