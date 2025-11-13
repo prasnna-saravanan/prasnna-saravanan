@@ -4,99 +4,164 @@
 
 # Prasanna Saravanan
 
-
-Precision engineering. Tooling ecosystems. Agent infrastructure. 
-
+Precision engineering. Tooling ecosystems. Agent infrastructure.  
 Systems over hype. Architecture over execution.
 
----
+```
+════════════════════════════════════════════════════════════════════════════════════
+  [SYSTEM STATUS]  Runtime: ✓ OPERATIONAL  |  Deployments: 2 LIVE  |  Uptime: 99.8%
+════════════════════════════════════════════════════════════════════════════════════
+```
 
-## Mission Panels
+## Command Palette
 
-### Current Work
+```bash
+prasanna@systems:~$ help
 
-- TractionX — Venture intelligence OS  
-- Kernel.dev — Agent tool runtime  
-- Async Systems — Redis-backed pipelines  
-- Autonomous Agents — Thesis-trained systems  
+Available commands:
 
----
+  work         → Display current projects and mission status
+  stack        → Show complete technical infrastructure
+  connect      → Establish communication protocols
+  deploy       → View live production systems
+  compete      → Access competitive programming runtime
+
+Usage: ./<command> [--flags]
+Type 'man <command>' for detailed documentation
+
+prasanna@systems:~$ █
+```
+
+<br>
+
+## Current Work
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ACTIVE MISSIONS                                                         ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  → TractionX          Venture intelligence OS                           ║
+║  → Kernel.dev         Agent tool runtime                                ║
+║  → Async Systems      Redis-backed pipelines                            ║
+║  → Autonomous Agents  Thesis-trained systems                            ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
 
 ## Technical Stack
 
-```yaml
-Backend & Infrastructure:
-  Languages:    Python, TypeScript, Node.js
-  Frameworks:   FastAPI, Express
-  Databases:    PostgreSQL, Redis, Qdrant (Vector DB)
-  Cache/Queue:  Redis, Celery
-  Async/Tasks:  Celery, Redis Queue, Background Workers
-
-Frontend & UI:
-  Framework:    Next.js 14 (App Router)
-  Styling:      Tailwind CSS, Radix UI, shadcn/ui
-  Animation:    Framer Motion, Anime.js
-  State:        Zustand, React Context
-
-AI & Machine Learning:
-  LLMs:         OpenAI GPT-4, Claude (Anthropic)
-  Inference:    Together AI, Vertex AI (Google)
-  Embeddings:   OpenAI, Voyage AI
-  Vector Store: Qdrant
-  Frameworks:   LangChain, Custom Pipelines
-
-DevOps & Deployment:
-  Hosting:      Vercel (Frontend), Render/Railway (Backend)
-  Containers:   Docker, Docker Compose
-  CI/CD:        GitHub Actions
-  Monitoring:   Sentry, Custom Logging
-
-Development Tools:
-  Version:      Git, GitHub
-  Editor:       Cursor, VS Code, Vim
-  API Testing:  Postman, Thunder Client
-  Prototyping:  Jupyter, Python REPL
+```
+STACK_TREE v2.1.0
+│
+├─ Backend & Infrastructure
+│  ├─ Languages ──────┬─ Python
+│  │                  ├─ TypeScript
+│  │                  └─ Node.js
+│  │
+│  ├─ Frameworks ─────┬─ FastAPI
+│  │                  └─ Express
+│  │
+│  ├─ Databases ──────┬─ PostgreSQL
+│  │                  ├─ Redis
+│  │                  └─ Qdrant (Vector)
+│  │
+│  └─ Async/Queue ────┬─ Celery
+│                     ├─ Redis Queue
+│                     └─ Background Workers
+│
+├─ Frontend & UI
+│  ├─ Framework ──────── Next.js 14 (App Router)
+│  ├─ Styling ────────┬─ Tailwind CSS
+│  │                  ├─ Radix UI
+│  │                  └─ shadcn/ui
+│  ├─ Animation ──────┬─ Framer Motion
+│  │                  └─ Anime.js
+│  └─ State ──────────┬─ Zustand
+│                     └─ React Context
+│
+├─ AI & Machine Learning
+│  ├─ LLMs ───────────┬─ OpenAI GPT-4
+│  │                  └─ Claude (Anthropic)
+│  ├─ Inference ──────┬─ Together AI
+│  │                  └─ Vertex AI (Google)
+│  ├─ Embeddings ─────┬─ OpenAI
+│  │                  └─ Voyage AI
+│  ├─ Vector Store ──── Qdrant
+│  └─ Frameworks ─────┬─ LangChain
+│                     └─ Custom Pipelines
+│
+├─ DevOps & Deployment
+│  ├─ Hosting ────────┬─ Vercel (Frontend)
+│  │                  ├─ Render (Backend)
+│  │                  └─ Railway (Backend)
+│  ├─ Containers ─────┬─ Docker
+│  │                  └─ Docker Compose
+│  ├─ CI/CD ──────────── GitHub Actions
+│  └─ Monitoring ─────┬─ Sentry
+│                     └─ Custom Logging
+│
+└─ Development Tools
+   ├─ Version ────────┬─ Git
+   │                  └─ GitHub
+   ├─ Editor ─────────┬─ Cursor
+   │                  ├─ VS Code
+   │                  └─ Vim
+   ├─ API Testing ────┬─ Postman
+   │                  └─ Thunder Client
+   └─ Prototyping ────┬─ Jupyter
+                      └─ Python REPL
 ```
 
----
+<br>
+
+## Live Systems & Network
 
 ```bash
-┌─[prasanna@systems]─[~]
-└──╼ $ ./query --info
+prasanna@systems:~$ ./deploy --list
 
-LIVE_SYSTEMS:
-  → tractionx.ai          # Venture Intelligence OS
-  → getkernel.dev         # Agent Tool Runtime
+┌──────────────────────────────────────────────────────────────────┐
+│ PRODUCTION DEPLOYMENTS                                           │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  [LIVE] tractionx.ai         → Venture Intelligence OS           │
+│  [LIVE] getkernel.dev        → Agent Tool Runtime                │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 
-TRANSMIT_CHANNELS:
-  → prasanna.page         # Personal Domain
-  → linkedin/prasanna     # Professional Network  
-  → x/@prasanna_builds    # Public Timeline
-  → prasanna.builds       # Direct Contact
+prasanna@systems:~$ ./connect --all
 
-COMPETITIVE_RUNTIME:
-  → leetcode/1QJrjkfcbd   # idt i am good at it
+┌──────────────────────────────────────────────────────────────────┐
+│ NETWORK PROTOCOLS                                                │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  DOMAIN      → prasanna.page                                     │
+│  SOCIAL      → linkedin.com/in/prasanna-saravanan                │
+│  STREAM      → x.com/prasanna_builds                             │
+│  MAIL        → prasanna.builds@gmail.com                         │
+│  COMPETE     → leetcode.com/u/1QJrjkfcbd                         │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 
-┌─[prasanna@systems]─[~]
-└──╼ $ ./connect --establish
-> Establishing secure connections...
-> Protocol: HTTPS | Status: ACTIVE
+prasanna@systems:~$ status
 > All systems operational ✓
+> Connections established
+> Ready to receive
 ```
 
-<p align="center">
-<a href="https://tractionx.ai">TractionX</a> · 
-<a href="https://www.getkernel.dev">Kernel</a> · 
-<a href="https://www.prasanna.page">Website</a> · 
-<a href="https://www.linkedin.com/in/prasanna-saravanan">LinkedIn</a> · 
-<a href="https://x.com/prasanna_builds">X</a> · 
-<a href="mailto:prasanna.builds@gmail.com">Email</a> · 
-<a href="https://leetcode.com/u/1QJrjkfcbd">LeetCode</a>
-</p>
+<div align="center">
 
----
+**[TractionX](https://tractionx.ai)** • **[Kernel](https://www.getkernel.dev)** • **[Website](https://www.prasanna.page)** • **[LinkedIn](https://www.linkedin.com/in/prasanna-saravanan)** • **[X](https://x.com/prasanna_builds)** • **[Email](mailto:prasanna.builds@gmail.com)** • **[LeetCode](https://leetcode.com/u/1QJrjkfcbd)**
 
-## Holopin Board
+</div>
+
+```
+════════════════════════════════════════════════════════════════════════════════════
+```
+
+## Achievement Log
 
 <div align="center">
   <a href="https://holopin.io/@prasnnasaravanan">
@@ -104,10 +169,18 @@ COMPETITIVE_RUNTIME:
   </a>
 </div>
 
----
+```
+════════════════════════════════════════════════════════════════════════════════════
+```
 
-## Contribution Graph
+## Contribution Matrix
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prasnna-saravanan/prasnna-saravanan/output/github-contribution-grid-snake-blue.svg" />
+  <img src="https://raw.githubusercontent.com/prasnna-saravanan/prasnna-saravanan/output/github-contribution-grid-snake-blue.svg" alt="Contribution Snake" />
 </div>
+
+```
+════════════════════════════════════════════════════════════════════════════════════
+                                EOF — SYSTEMS ONLINE
+════════════════════════════════════════════════════════════════════════════════════
+```
