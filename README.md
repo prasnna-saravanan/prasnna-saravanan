@@ -11,12 +11,14 @@ Systems over hype. Architecture over execution.
 
 ---
 
-## Current Work
+## Mission Panels
 
-- TractionX — Venture intelligence OS for private markets  
-- Kernel.dev — Standard runtime for agent tools  
-- Async Systems — Redis-backed pipelines, orchestration, distributed workers  
-- Autonomous Agents — Thesis-trained models for sourcing, scoring, execution  
+### Current Work
+
+- TractionX — Venture intelligence OS  
+- Kernel.dev — Agent tool runtime  
+- Async Systems — Redis-backed pipelines  
+- Autonomous Agents — Thesis-trained systems  
 
 ---
 
@@ -28,13 +30,21 @@ OpenAI • TogetherAI • VertexAI • Qdrant
 
 ---
 
-## Operating Principles
+## Holopin Badges
 
-- Bias for deterministic systems  
-- Implementation first  
-- Architecture is the product  
+<div align="center">
+  <div style="padding:8px; border:1px solid #2f3850; width:fit-content;">
+    <img src="https://holopin.me/cmfxspuw2000kju04u98vi35z" height="120"/>
+    <img src="https://holopin.me/cmhkpsm2p00jql104a3pnuhlf" height="120"/>
+    <img src="https://holopin.me/cmhkpslzt00jpl104365qjlxq" height="120"/>
+    <img src="https://holopin.me/cmhm4iebc005ll804v88z0nv6" height="120"/>
+    <img src="https://holopin.me/cmhm4ie8m005kl804bmcgru34" height="120"/>
+  </div>
+</div>
 
 ---
+
+## Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/prasnna-saravanan/prasnna-saravanan/output/github-contribution-grid-snake-blue.svg" />
