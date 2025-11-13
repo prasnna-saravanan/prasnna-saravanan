@@ -33,8 +33,8 @@ OpenAI • TogetherAI • VertexAI • Qdrant
 ## Holopin Board
 
 <div align="center">
-  <a href="https://holopin.io/@prasnna">
-    <img src="https://holopin.me/prasnna" alt="Holopin Badge Board" />
+  <a href="https://holopin.io/@prasnnasaravanan">
+    <img src="https://holopin.me/prasnnasaravanan" alt="Holopin Badge Board" />
   </a>
 </div>
 
