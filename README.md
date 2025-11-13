@@ -22,9 +22,39 @@ Precision engineering. Tooling ecosystems. Agent infrastructure. Systems over hy
 
 ## Technical Stack
 
-Python • FastAPI • Redis • Postgres  
-Next.js • Tailwind  
-OpenAI • TogetherAI • VertexAI • Qdrant
+```yaml
+Backend & Infrastructure:
+  Languages:    Python, TypeScript, Node.js
+  Frameworks:   FastAPI, Express
+  Databases:    PostgreSQL, Redis, Qdrant (Vector DB)
+  Cache/Queue:  Redis, Celery
+  Async/Tasks:  Celery, Redis Queue, Background Workers
+
+Frontend & UI:
+  Framework:    Next.js 14 (App Router)
+  Styling:      Tailwind CSS, Radix UI, shadcn/ui
+  Animation:    Framer Motion, Anime.js
+  State:        Zustand, React Context
+
+AI & Machine Learning:
+  LLMs:         OpenAI GPT-4, Claude (Anthropic)
+  Inference:    Together AI, Vertex AI (Google)
+  Embeddings:   OpenAI, Voyage AI
+  Vector Store: Qdrant
+  Frameworks:   LangChain, Custom Pipelines
+
+DevOps & Deployment:
+  Hosting:      Vercel (Frontend), Render/Railway (Backend)
+  Containers:   Docker, Docker Compose
+  CI/CD:        GitHub Actions
+  Monitoring:   Sentry, Custom Logging
+
+Development Tools:
+  Version:      Git, GitHub
+  Editor:       Cursor, VS Code, Vim
+  API Testing:  Postman, Thunder Client
+  Prototyping:  Jupyter, Python REPL
+```
 
 ---
 
