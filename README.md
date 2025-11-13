@@ -73,7 +73,7 @@ TRANSMIT_CHANNELS:
   → prasanna.builds       # Direct Contact
 
 COMPETITIVE_RUNTIME:
-  → leetcode/1QJrjkfcbd   # I Training
+  → leetcode/1QJrjkfcbd   # idt i am good at it
 
 ┌─[prasanna@systems]─[~]
 └──╼ $ ./connect --establish
