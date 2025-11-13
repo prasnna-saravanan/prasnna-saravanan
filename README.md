@@ -35,4 +35,4 @@ Vim. Caffeine. Midnight commits.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/prasnna-saravanan/prasnna-saravanan/output/github-contribution-grid-snake-blue.svg" />
-</div>  
+</div>
