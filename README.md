@@ -30,33 +30,63 @@ OpenAI • TogetherAI • VertexAI • Qdrant
 
 ---
 
-## Connection Protocols
+## Network Graph
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Live Systems
+
+```bash
+$ ./systems --status
 ```
-┌─ PERSONAL CHANNELS ──────────────────────────────────────────┐
-│                                                               │
-│  → Website      prasanna.page                                │
-│  → LinkedIn     in/prasanna-saravanan                        │
-│  → X Platform   @prasanna_builds                             │
-│  → Contact      prasanna.builds@gmail.com                    │
-│                                                               │
-├─ PRODUCTION SYSTEMS ─────────────────────────────────────────┤
-│                                                               │
-│  → TractionX    tractionx.ai                                 │
-│  → Kernel       getkernel.dev                                │
-│                                                               │
-├─ COMPETITIVE RUNTIME ────────────────────────────────────────┤
-│                                                               │
-│  → LeetCode     leetcode.com/u/1QJrjkfcbd                    │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
+
+<div align="left">
+
+🔹 **[TractionX](https://tractionx.ai/)** — Venture Intelligence OS  
+🔹 **[Kernel](https://www.getkernel.dev/)** — Agent Runtime  
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Transmit Channels
+
+```bash
+$ ./connect --all
 ```
+
+<div align="left">
+
+📡 **[Website](https://www.prasanna.page)** — prasanna.page  
+🔗 **[LinkedIn](https://www.linkedin.com/in/prasanna-saravanan/)** — Professional Network  
+✖️ **[X](https://x.com/prasanna_builds)** — @prasanna_builds  
+📬 **[Email](mailto:prasanna.builds@gmail.com)** — prasanna.builds  
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  
-**[🌐 prasanna.page](https://www.prasanna.page)** · **[💼 LinkedIn](https://www.linkedin.com/in/prasanna-saravanan/)** · **[𝕏 @prasanna_builds](https://x.com/prasanna_builds)** · **[📧 Email](mailto:prasanna.builds@gmail.com)**
 
-**[⚡ TractionX](https://tractionx.ai/)** · **[🔧 Kernel](https://www.getkernel.dev/)** · **[💻 LeetCode](https://leetcode.com/u/1QJrjkfcbd/)**
+```mermaid
+graph LR
+    A[Systems] --> B[TractionX]
+    A --> C[Kernel]
+    D[Network] --> E[Web]
+    D --> F[Social]
+    D --> G[Code]
+    G --> H[LeetCode]
+    
+    style A fill:#6DA4FF,stroke:#4a8fd9,color:#000
+    style D fill:#6DA4FF,stroke:#4a8fd9,color:#000
+```
+
+**[💻 Competitive Runtime](https://leetcode.com/u/1QJrjkfcbd/)** · LeetCode Profile
 
 </div>
 
