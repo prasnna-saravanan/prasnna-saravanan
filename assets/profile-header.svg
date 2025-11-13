@@ -2,7 +2,6 @@
   <style>
     text {
       font-family: 'Courier New', monospace;
-      font-size: 18px;
       fill: #6DA4FF;
       letter-spacing: 2px;
     }
