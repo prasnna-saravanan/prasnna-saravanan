@@ -1,15 +1,16 @@
-<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="140" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .mono {
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 14px;
+    text {
+      font-family: 'Courier New', monospace;
+      font-size: 18px;
       fill: #6DA4FF;
-      font-weight: bold;
+      letter-spacing: 2px;
     }
+    .title { font-size: 48px; font-weight: bold; }
+    .sub { font-size: 16px; font-style: italic; }
   </style>
-  <rect width="800" height="100" fill="#0d1117"/>
-  <text x="20" y="20" class="mono">____  ____  ____ ____ ____ _  _ _  _ ____ </text>
-  <text x="20" y="38" class="mono">|__] |__/ |__| [__  |__| |\ | |\ | |__| </text>
-  <text x="20" y="56" class="mono">|    |  \ |  | ___] |  | | \| | \| |  | </text>
-  <text x="20" y="80" class="mono">[ AI SYSTEMS ARCHITECT ]</text>
+  <rect width="800" height="140" fill="#0d1117"/>
+  <text x="50" y="60" class="title">PRASANNA SARAVANAN</text>
+  <text x="50" y="95" class="sub">// AI Systems Architect</text>
+  <line x1="50" y1="105" x2="750" y2="105" stroke="#6DA4FF" stroke-width="2"/>
 </svg>
