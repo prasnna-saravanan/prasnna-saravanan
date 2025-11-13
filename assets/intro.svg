@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="80" viewBox="0 0 900 80" 
+     xmlns="http://www.w3.org/2000/svg">
+<style>
+    .txt { 
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 20px;
+        fill: #6DA4FF;
+        white-space: pre;
+    }
+    @keyframes cursorBlink {
+        0% { opacity: 1; }
+        50% { opacity: 0; }
+        100% { opacity: 1; }
+    }
+</style>
+<text x="10" y="25" class="txt">┌──────────────────────────────────────────────────────────────┐</text>
+<text x="10" y="50" class="txt">│ Initializing: PRASANNA SARAVANAN                              │</text>
+<text x="10" y="75" class="txt">│ Systems Online                                                │</text>
+<text x="680" y="75" class="txt" style="animation: cursorBlink 1s infinite;">_</text>
+<text x="10" y="100" class="txt">└──────────────────────────────────────────────────────────────┘</text>
+</svg>
+
