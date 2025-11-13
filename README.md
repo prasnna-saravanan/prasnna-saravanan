@@ -30,6 +30,18 @@ OpenAI • TogetherAI • VertexAI • Qdrant
 
 ---
 
+## Network Links
+
+**[ Website ]** https://www.prasanna.page  
+**[ LinkedIn ]** https://www.linkedin.com/in/prasanna-saravanan/  
+**[ X ]** https://x.com/prasanna_builds  
+**[ Email ]** prasanna.builds@gmail.com  
+**[ TractionX ]** https://tractionx.ai/  
+**[ Kernel ]** https://www.getkernel.dev/  
+**[ LeetCode ]** https://leetcode.com/u/1QJrjkfcbd/
+
+---
+
 ## Holopin Board
 
 <div align="center">
