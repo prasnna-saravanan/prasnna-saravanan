@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" />
+  <img src="./assets/header.svg" width="100%" />
 </p>
 
 # Prasanna Saravanan
@@ -73,7 +73,7 @@ TRANSMIT_CHANNELS:
   → prasanna.builds       # Direct Contact
 
 COMPETITIVE_RUNTIME:
-  → leetcode/1QJrjkfcbd   # Algorithm Training
+  → leetcode/1QJrjkfcbd   # I Training
 
 ┌─[prasanna@systems]─[~]
 └──╼ $ ./connect --establish
