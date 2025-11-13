@@ -30,16 +30,12 @@ OpenAI • TogetherAI • VertexAI • Qdrant
 
 ---
 
-## Holopin Badges
+## Holopin Board
 
 <div align="center">
-  <div style="padding:8px; border:1px solid #2f3850; width:fit-content;">
-    <img src="https://holopin.me/cmfxspuw2000kju04u98vi35z" height="120"/>
-    <img src="https://holopin.me/cmhkpsm2p00jql104a3pnuhlf" height="120"/>
-    <img src="https://holopin.me/cmhkpslzt00jpl104365qjlxq" height="120"/>
-    <img src="https://holopin.me/cmhm4iebc005ll804v88z0nv6" height="120"/>
-    <img src="https://holopin.me/cmhm4ie8m005kl804bmcgru34" height="120"/>
-  </div>
+  <a href="https://holopin.io/@prasnna">
+    <img src="https://holopin.me/prasnna" alt="Holopin Badge Board" />
+  </a>
 </div>
 
 ---
