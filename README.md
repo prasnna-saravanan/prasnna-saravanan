@@ -28,85 +28,39 @@ OpenAI • TogetherAI • VertexAI • Qdrant
 
 ---
 
-## Network Graph
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<br>
-
-## Live Systems
-
 ```bash
-$ ./systems --status
-> Initializing production endpoints...
-> Status: ONLINE
+┌─[prasanna@systems]─[~]
+└──╼ $ ./query --info
+
+LIVE_SYSTEMS:
+  → tractionx.ai          # Venture Intelligence OS
+  → getkernel.dev         # Agent Tool Runtime
+
+TRANSMIT_CHANNELS:
+  → prasanna.page         # Personal Domain
+  → linkedin/prasanna     # Professional Network  
+  → x/@prasanna_builds    # Public Timeline
+  → prasanna.builds       # Direct Contact
+
+COMPETITIVE_RUNTIME:
+  → leetcode/1QJrjkfcbd   # Algorithm Training
+
+┌─[prasanna@systems]─[~]
+└──╼ $ ./connect --establish
+> Establishing secure connections...
+> Protocol: HTTPS | Status: ACTIVE
+> All systems operational ✓
 ```
 
-<br>
-
-### **[TractionX](https://tractionx.ai/)**
-Venture Intelligence OS
-
-<br>
-
-### **[Kernel](https://www.getkernel.dev/)**
-Agent Tool Runtime
-
-<br>
-
-</td>
-<td width="50%" valign="top">
-
-<br>
-
-## Transmit Channels
-
-```bash
-$ ./connect --all
-> Establishing network connections...
-> Ready: 4 channels
-```
-
-<br>
-
-### **[Website](https://www.prasanna.page)**
-prasanna.page
-
-### **[LinkedIn](https://www.linkedin.com/in/prasanna-saravanan/)**
-Professional Network
-
-### **[X](https://x.com/prasanna_builds)**
-@prasanna_builds
-
-### **[Email](mailto:prasanna.builds@gmail.com)**
-prasanna.builds
-
-<br>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Systems] --> B[TractionX]
-    A --> C[Kernel]
-    D[Network] --> E[Web]
-    D --> F[Social]
-    D --> G[Code]
-    G --> H[LeetCode]
-    
-    style A fill:#6DA4FF,stroke:#4a8fd9,color:#000
-    style D fill:#6DA4FF,stroke:#4a8fd9,color:#000
-```
-
-**[Competitive Runtime](https://leetcode.com/u/1QJrjkfcbd/)** · LeetCode Profile
-
-</div>
+<p align="center">
+<a href="https://tractionx.ai">TractionX</a> · 
+<a href="https://www.getkernel.dev">Kernel</a> · 
+<a href="https://www.prasanna.page">Website</a> · 
+<a href="https://www.linkedin.com/in/prasanna-saravanan">LinkedIn</a> · 
+<a href="https://x.com/prasanna_builds">X</a> · 
+<a href="mailto:prasanna.builds@gmail.com">Email</a> · 
+<a href="https://leetcode.com/u/1QJrjkfcbd">LeetCode</a>
+</p>
 
 ---
 
