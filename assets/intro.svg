@@ -1,25 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="100%" height="80" viewBox="0 0 900 80" 
-     xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500&display=swap');
-    
     .txt { 
-        font-family: "IBM Plex Mono", monospace;
-        font-size: 20px;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 16px;
         fill: #6DA4FF;
-        white-space: pre;
     }
-    @keyframes cursorBlink {
-        0% { opacity: 1; }
-        50% { opacity: 0; }
-        100% { opacity: 1; }
+    .cursor {
+        animation: blink 1s infinite;
+    }
+    @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
     }
 </style>
-<text x="10" y="25" class="txt">┌──────────────────────────────────────────────────────────────┐</text>
-<text x="10" y="50" class="txt">│ Initializing: PRASANNA SARAVANAN                              │</text>
-<text x="10" y="75" class="txt">│ Systems Online                                                │</text>
-<text x="680" y="75" class="txt" style="animation: cursorBlink 1s infinite;">_</text>
-<text x="10" y="100" class="txt">└──────────────────────────────────────────────────────────────┘</text>
+<text x="10" y="30" class="txt">┌──────────────────────────────────────────────────────────────────┐</text>
+<text x="10" y="55" class="txt">│  INITIALIZING: PRASANNA SARAVANAN                                │</text>
+<text x="10" y="80" class="txt">│  SYSTEMS ONLINE</text>
+<text x="240" y="80" class="txt cursor">_</text>
+<text x="250" y="80" class="txt">                                                 │</text>
+<text x="10" y="105" class="txt">└──────────────────────────────────────────────────────────────────┘</text>
 </svg>
-
