@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-ascii.svg" width="100%" />
+  <img src="./assets/banner.svg" width="100%" />
 </p>
 
 # Prasanna Saravanan
