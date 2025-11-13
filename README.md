@@ -32,40 +32,60 @@ OpenAI • TogetherAI • VertexAI • Qdrant
 
 ## Network Graph
 
-<table align="center">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### Live Systems
+<br>
+
+## Live Systems
 
 ```bash
 $ ./systems --status
+> Initializing production endpoints...
+> Status: ONLINE
 ```
 
-<div align="left">
+<br>
 
-**[TractionX](https://tractionx.ai/)** — Venture Intelligence OS  
-**[Kernel](https://www.getkernel.dev/)** — Agent Runtime  
+### **[TractionX](https://tractionx.ai/)**
+Venture Intelligence OS
 
-</div>
+<br>
+
+### **[Kernel](https://www.getkernel.dev/)**
+Agent Tool Runtime
+
+<br>
 
 </td>
 <td width="50%" valign="top">
 
-### Transmit Channels
+<br>
+
+## Transmit Channels
 
 ```bash
 $ ./connect --all
+> Establishing network connections...
+> Ready: 4 channels
 ```
 
-<div align="left">
+<br>
 
-**[Website](https://www.prasanna.page)** — prasanna.page  
-**[LinkedIn](https://www.linkedin.com/in/prasanna-saravanan/)** — Professional Network  
-**[X](https://x.com/prasanna_builds)** — @prasanna_builds  
-**[Email](mailto:prasanna.builds@gmail.com)** — prasanna.builds  
+### **[Website](https://www.prasanna.page)**
+prasanna.page
 
-</div>
+### **[LinkedIn](https://www.linkedin.com/in/prasanna-saravanan/)**
+Professional Network
+
+### **[X](https://x.com/prasanna_builds)**
+@prasanna_builds
+
+### **[Email](mailto:prasanna.builds@gmail.com)**
+prasanna.builds
+
+<br>
 
 </td>
 </tr>
