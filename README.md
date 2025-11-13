@@ -41,10 +41,10 @@ prasanna@systems:~$ █
 ║  ACTIVE MISSIONS                                                         ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
-║  → TractionX          Venture intelligence OS                           ║
-║  → Kernel.dev         Agent tool runtime                                ║
-║  → Async Systems      Redis-backed pipelines                            ║
-║  → Autonomous Agents  Thesis-trained systems                            ║
+║  → TractionX          Venture intelligence OS                            ║
+║  → Kernel.dev         Agent tool runtime                                 ║
+║  → Async Systems      Redis-backed pipelines                             ║
+║  → Autonomous Agents  Thesis-trained systems                             ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
