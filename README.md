@@ -115,7 +115,7 @@ prasanna@systems:~$ ./deploy --list
 ├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
 │  [LIVE] tractionx.ai         → Venture Intelligence OS           │
-│  [LIVE] getkernel.dev        → Agent Tool Runtime                │
+│  [LIVE] getkernel.dev        → Open Source Agent Tool Runtime    │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 
