@@ -8,27 +8,6 @@ Precision engineering. Tooling ecosystems. Agent infrastructure.
 Systems over hype. Architecture over execution.
 
 
-## Command Palette
-
-```bash
-prasanna@systems:~$ help
-
-Available commands:
-
-  work         → Display current projects and mission status
-  stack        → Show complete technical infrastructure
-  connect      → Establish communication protocols
-  deploy       → View live production systems
-  compete      → Access competitive programming runtime
-
-Usage: ./<command> [--flags]
-Type 'man <command>' for detailed documentation
-
-prasanna@systems:~$ █
-```
-
-<br>
-
 ## Current Work
 
 ```
@@ -44,7 +23,21 @@ prasanna@systems:~$ █
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br>
+```
+════════════════════════════════════════════════════════════════════════════════════
+```
+
+## OSS Log
+
+<div align="center">
+  <a href="https://holopin.io/@prasnnasaravanan">
+    <img src="https://holopin.me/prasnnasaravanan" alt="Holopin Badge Board" />
+  </a>
+</div>
+
+```
+════════════════════════════════════════════════════════════════════════════════════
+```
 
 ## Technical Stack
 
@@ -151,22 +144,6 @@ prasanna@systems:~$ status
 **[TractionX](https://tractionx.ai)** • **[Kernel](https://www.getkernel.dev)** • **[Website](https://www.prasanna.page)** • **[LinkedIn](https://www.linkedin.com/in/prasanna-saravanan)** • **[X](https://x.com/prasanna_builds)** • **[Email](mailto:prasanna.builds@gmail.com)** • **[LeetCode](https://leetcode.com/u/1QJrjkfcbd)**
 
 </div>
-
-```
-════════════════════════════════════════════════════════════════════════════════════
-```
-
-## Achievement Log
-
-<div align="center">
-  <a href="https://holopin.io/@prasnnasaravanan">
-    <img src="https://holopin.me/prasnnasaravanan" alt="Holopin Badge Board" />
-  </a>
-</div>
-
-```
-════════════════════════════════════════════════════════════════════════════════════
-```
 
 ## Contribution Matrix
 
